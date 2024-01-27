@@ -30,13 +30,13 @@ OpenCV
 dlib
 NumPy
 
-##How to Run:
+## How to Run:
 
 Navigate to the project directory.
 Execute the main script: python drowsiness_detection.py.
 Follow the on-screen instructions to start monitoring for drowsiness.
 
-##Example:
+## Example:
 
 Copy code
 python3 drowsiness_detection.py
